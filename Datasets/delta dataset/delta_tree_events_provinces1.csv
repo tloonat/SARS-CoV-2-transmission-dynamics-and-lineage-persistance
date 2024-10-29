@@ -1,0 +1,2475 @@
+,EventTime,Origin,Destination
+1,2021.8739699999999,SouthAfrica - Gauteng,France
+2,2021.8480399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+3,2021.59475,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+4,2021.77808,SouthAfrica - NorthernCape,SouthAfrica - WesternCape
+5,2021.5452,SouthAfrica - Gauteng,SouthAfrica - nan
+6,2021.60274,SouthAfrica - Gauteng,SouthAfrica - nan
+7,2021.5452,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+8,2021.72055,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+9,2021.70685,SouthAfrica - Gauteng,Eswatini
+10,2021.58356,SouthAfrica - Gauteng,Eswatini
+11,2021.70137,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+12,2021.55342,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+13,2021.72054,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+14,2021.66301,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+15,2021.55494,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+16,2021.6356,SouthAfrica - Gauteng,UnitedKingdom
+17,2021.59177,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+18,2021.56438,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+19,2021.58457,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+20,2021.73971,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+21,2021.7260099999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+22,2021.73972,SouthAfrica - Gauteng,Eswatini
+23,2021.61369,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+24,2021.76438,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+25,2021.64383,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+26,2021.73973,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+27,2021.86027,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+28,2021.73425,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+29,2021.68493,SouthAfrica - Gauteng,UnitedKingdom
+30,2021.73698,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+31,2021.69041,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+32,2021.56438,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+33,2021.58049,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+34,2021.61644,SouthAfrica - NorthernCape,SouthAfrica - Gauteng
+35,2021.78405,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+36,2021.8767,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+37,2021.72054,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+38,2021.71432,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+39,2021.77807,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+40,2021.5452,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+41,2021.64352,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+42,2021.5545299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+43,2021.6082099999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Limpopo
+44,2021.75337,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+45,2021.59725,SouthAfrica - Gauteng,Eswatini
+46,2021.63013,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+47,2021.73972,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+48,2021.74246,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+49,2021.83835,SouthAfrica - Gauteng,Greece
+50,2021.7726,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+51,2021.73151,SouthAfrica - Gauteng,SouthAfrica - FreeState
+52,2021.7178,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+53,2021.61096,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+54,2021.73698,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+55,2021.63287,SouthAfrica - Gauteng,Eswatini
+56,2021.4427799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+57,2021.83287,SouthAfrica - Gauteng,SouthAfrica - FreeState
+58,2021.89863,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+59,2021.70685,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+60,2021.57824,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+61,2021.63563,SouthAfrica - Gauteng,Belgium
+62,2021.69042,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+63,2021.6685,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+64,2021.55891,SouthAfrica - Gauteng,SouthAfrica - nan
+65,2021.62466,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+66,2021.74521,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+67,2021.76713,SouthAfrica - Gauteng,USA
+68,2021.60548,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+69,2021.86301,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+70,2021.70959,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+71,2021.7178099999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+72,2021.56988,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+73,2021.56988,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+74,2021.7561799999999,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+75,2021.76988,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+76,2021.57713,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+77,2021.60549,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+78,2021.67946,SouthAfrica - EasternCape,SouthAfrica - NorthWest
+79,2021.64111,SouthAfrica - EasternCape,Eswatini
+80,2021.60823,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+81,2021.81919,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+82,2021.63562,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+83,2021.67946,SouthAfrica - Gauteng,SouthAfrica - FreeState
+84,2021.64933,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+85,2021.76962,SouthAfrica - Gauteng,USA
+86,2021.7918,USA,Indonesia
+87,2021.68221,SouthAfrica - Gauteng,SouthAfrica - FreeState
+88,2021.5918,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+89,2021.57536,SouthAfrica - Gauteng,Eswatini
+90,2021.55793,SouthAfrica - Gauteng,SouthAfrica - FreeState
+91,2021.58358,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+92,2021.58358,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+93,2021.64386,SouthAfrica - Gauteng,SouthAfrica - FreeState
+94,2021.7781,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+95,2021.73701,SouthAfrica - Gauteng,SouthAfrica - FreeState
+96,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+97,2021.63016,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+98,2021.57536,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+99,2021.6904299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+100,2021.6055099999999,SouthAfrica - Gauteng,Serbia
+101,2021.75619,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+102,2021.61372,SouthAfrica - Gauteng,SouthAfrica - FreeState
+103,2021.62468,SouthAfrica - Gauteng,France
+104,2021.6182999999999,SouthAfrica - Gauteng,France
+105,2021.7424899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+106,2021.5863299999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+107,2021.61373,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+108,2021.62195,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+109,2021.60202,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+110,2021.71237,SouthAfrica - Mpumalanga,SouthAfrica - Limpopo
+111,2021.60552,SouthAfrica - Mpumalanga,SouthAfrica - EasternCape
+112,2021.52344,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+113,2021.68222,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+114,2021.61579,SouthAfrica - Mpumalanga,SouthAfrica - Limpopo
+115,2021.79181,SouthAfrica - Mpumalanga,Denmark
+116,2021.86579,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+117,2021.61297,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+118,2021.73702,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+119,2021.73976,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+120,2021.55618,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+121,2021.59727,SouthAfrica - Gauteng,France
+122,2021.5616499999999,SouthAfrica - Gauteng,Israel
+123,2021.60823,SouthAfrica - Gauteng,Malawi
+124,2021.78632,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+125,2021.7945399999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+126,2021.7753599999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+127,2021.64933,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+128,2021.60276,SouthAfrica - Gauteng,India
+129,2021.87126,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+130,2021.57537,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+131,2021.72058,SouthAfrica - Gauteng,Zimbabwe
+132,2021.67948,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+133,2021.58907,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+134,2021.72605,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+135,2021.68222,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+136,2021.70387,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+137,2021.76168,SouthAfrica - Gauteng,SouthAfrica - FreeState
+138,2021.65757,SouthAfrica - Gauteng,USA
+139,2021.72333,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+140,2021.61373,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+141,2021.70414,SouthAfrica - Gauteng,SouthAfrica - FreeState
+142,2021.69866,SouthAfrica - Gauteng,Eswatini
+143,2021.74524,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+144,2021.64113,SouthAfrica - Gauteng,UnitedKingdom
+145,2021.76168,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+146,2021.63291,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+147,2021.85756,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+148,2021.89318,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+149,2021.62743,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+150,2021.63839,SouthAfrica - Gauteng,Philippines
+151,2021.64113,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+152,2021.58586,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+153,2021.6023,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+154,2021.60552,SouthAfrica - Gauteng,Portugal
+155,2021.60552,SouthAfrica - Gauteng,Portugal
+156,2021.61922,SouthAfrica - Gauteng,Zimbabwe
+157,2021.62196,SouthAfrica - Gauteng,USA
+158,2021.62196,SouthAfrica - Gauteng,SouthAfrica - FreeState
+159,2021.64662,SouthAfrica - Gauteng,Switzerland
+160,2021.65484,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+161,2021.73704,SouthAfrica - Gauteng,SouthAfrica - FreeState
+162,2021.7014199999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+163,2021.59809,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+164,2021.59454,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+165,2021.58486,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+166,2021.70413,SouthAfrica - Gauteng,Eswatini
+167,2021.70687,SouthAfrica - Gauteng,Eswatini
+168,2021.62194,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+169,2021.74797,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+170,2021.61372,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+171,2021.64934,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+172,2021.74523,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+173,2021.61372,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+174,2021.56784,SouthAfrica - Gauteng,UnitedKingdom
+175,2021.6603,UnitedKingdom,Nigeria
+176,2021.6246899999999,UnitedKingdom,Switzerland
+177,2021.59557,UnitedKingdom,France
+178,2021.61099,France,Switzerland
+179,2021.58704,SouthAfrica - Gauteng,France
+180,2021.72606,France,Denmark
+181,2021.72606,France,UnitedKingdom
+182,2021.7432,France,Belgium
+183,2021.71509,France,Denmark
+184,2021.68884,France,Netherlands
+185,2021.70912,Netherlands,Denmark
+186,2021.83016,France,Japan
+187,2021.83564,France,Luxembourg
+188,2022.01372,France,UnitedKingdom
+189,2022.10414,France,Poland
+190,2021.9890699999999,France,Denmark
+191,2021.95346,France,Germany
+192,2022.01373,France,Denmark
+193,2022.02469,France,Netherlands
+194,2021.96717,France,Germany
+195,2021.97813,France,UnitedKingdom
+196,2021.98361,France,Denmark
+197,2021.98635,France,Denmark
+198,2022.00553,France,UnitedKingdom
+199,2022.00827,France,Denmark
+200,2022.02745,France,UnitedKingdom
+201,2021.59728,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+202,2021.6191999999999,SouthAfrica - Gauteng,Zimbabwe
+203,2021.66852,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+204,2021.64112,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+205,2021.72057,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+206,2021.8603,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+207,2021.62193,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+208,2021.73974,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+209,2021.7424899999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+210,2021.71235,SouthAfrica - Gauteng,SouthAfrica - FreeState
+211,2021.55344,SouthAfrica - Gauteng,SouthAfrica - nan
+212,2021.66029,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+213,2021.66303,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+214,2021.58066,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+215,2021.87673,SouthAfrica - EasternCape,SouthAfrica - FreeState
+216,2021.85481,SouthAfrica - EasternCape,Lesotho
+217,2021.58085,SouthAfrica - Gauteng,Australia
+218,2021.68222,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+219,2021.79455,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+220,2021.70139,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+221,2021.76714,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+222,2021.95618,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+223,2021.67695,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+224,2021.81645,SouthAfrica - NorthernCape,SouthAfrica - WesternCape
+225,2021.61645,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+226,2021.7561799999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+227,2021.63015,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+228,2021.66303,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+229,2021.74522,SouthAfrica - Mpumalanga,SouthAfrica - NorthernCape
+230,2021.71039,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+231,2021.91782,SouthAfrica - NorthernCape,SouthAfrica - KwaZulu-Natal
+232,2021.57042,SouthAfrica - Gauteng,Mozambique
+233,2021.6367,SouthAfrica - Gauteng,Botswana
+234,2021.61097,SouthAfrica - Gauteng,Eswatini
+235,2021.7041199999999,Eswatini,Mozambique
+236,2021.70139,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+237,2021.5863299999999,SouthAfrica - Gauteng,Eswatini
+238,2021.58906,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+239,2021.65209,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+240,2021.6301799999999,SouthAfrica - Gauteng,Zimbabwe
+241,2021.71624,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+242,2021.86032,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+243,2021.62903,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+244,2021.7014,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+245,2021.61921,SouthAfrica - Gauteng,Greece
+246,2021.6877,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+247,2021.75893,SouthAfrica - WesternCape,USA
+248,2021.61099,SouthAfrica - Gauteng,Eswatini
+249,2021.6877,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+250,2021.73702,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+251,2021.73976,SouthAfrica - Gauteng,SouthAfrica - FreeState
+252,2021.60825,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+253,2021.66304,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+254,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+255,2021.69122,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+256,2021.74462,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+257,2021.8000299999999,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+258,2021.61373,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+259,2021.61921,SouthAfrica - Gauteng,Zimbabwe
+260,2021.52332,SouthAfrica - Gauteng,Lesotho
+261,2021.72606,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+262,2021.77538,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+263,2021.75894,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+264,2021.6301799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+265,2021.79183,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+266,2021.73702,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+267,2021.7287999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+268,2021.6438699999999,SouthAfrica - Gauteng,Greece
+269,2021.6438699999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+270,2021.77264,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+271,2021.86853,SouthAfrica - Gauteng,Eswatini
+272,2021.66031,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+273,2021.7003,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+274,2021.6657599999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+275,2021.56442,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+276,2021.5918199999999,SouthAfrica - Gauteng,Eswatini
+277,2021.5973,SouthAfrica - Gauteng,USA
+278,2021.60826,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+279,2021.64662,SouthAfrica - Gauteng,Germany
+280,2021.6822399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+281,2021.7069,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+282,2021.7205999999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthernCape
+283,2021.7205999999999,SouthAfrica - NorthernCape,Zimbabwe
+284,2021.7397799999999,SouthAfrica - NorthernCape,SouthAfrica - WesternCape
+285,2021.6932,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+286,2021.71125,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+287,2021.7069,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+288,2021.71786,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+289,2021.92059,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+290,2021.75621,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+291,2021.7863399999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+292,2021.1452,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+293,2021.71506,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+294,2021.57465,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+295,2021.68492,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+296,2021.62191,SouthAfrica - Gauteng,SouthAfrica - FreeState
+297,2021.89314,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+298,2021.7178,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+299,2021.72876,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+300,2021.2246499999999,SouthAfrica - Gauteng,SouthAfrica - nan
+301,2021.5369799999999,SouthAfrica - nan,SouthAfrica - WesternCape
+302,2021.85205,SouthAfrica - Gauteng,SouthAfrica - FreeState
+303,2021.88767,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+304,2021.25039,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+305,2021.49065,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+306,2021.7589,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+307,2021.61643,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+308,2021.58904,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+309,2021.65571,SouthAfrica - Gauteng,Malawi
+310,2021.61095,SouthAfrica - Gauteng,Eswatini
+311,2021.4136799999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+312,2021.7506799999999,SouthAfrica - FreeState,Switzerland
+313,2021.72054,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+314,2021.7589,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+315,2021.58356,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+316,2021.79725,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+317,2021.89041,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+318,2021.53151,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+319,2021.76164,SouthAfrica - Gauteng,SouthAfrica - FreeState
+320,2021.7178099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+321,2021.56986,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+322,2021.47406,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+323,2021.68492,SouthAfrica - NorthernCape,SouthAfrica - Gauteng
+324,2021.56546,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+325,2021.76163,SouthAfrica - NorthWest,Malawi
+326,2021.7589,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+327,2021.3460499999999,SouthAfrica - Gauteng,Germany
+328,2021.40759,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+329,2021.73972,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+330,2021.70136,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+331,2021.6794399999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+332,2021.50423,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+333,2021.52875,SouthAfrica - WesternCape,Switzerland
+334,2021.6602599999999,SouthAfrica - WesternCape,Mozambique
+335,2021.88491,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+336,2021.60547,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+337,2021.64382,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+338,2021.59724,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+339,2021.70136,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+340,2021.6082,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+341,2021.6082,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+342,2021.78081,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+343,2021.6082,SouthAfrica - Gauteng,SouthAfrica - nan
+344,2021.6082,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+345,2021.64656,SouthAfrica - Mpumalanga,SouthAfrica - NorthWest
+346,2021.49894,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+347,2021.59177,SouthAfrica - WesternCape,Spain
+348,2021.60273,Spain,USA
+349,2021.78272,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+350,2021.61368,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+351,2021.5369699999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+352,2021.89338,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+353,2021.71779,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+354,2021.72327,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+355,2021.6218999999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+356,2021.7260099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+357,2021.70379,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+358,2021.63012,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+359,2021.64382,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+360,2021.63286,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+361,2021.55341,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+362,2021.5554,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+363,2021.73697,SouthAfrica - EasternCape,SouthAfrica - Limpopo
+364,2021.7383399999999,SouthAfrica - Gauteng,Botswana
+365,2021.73971,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+366,2021.45548,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+367,2021.64382,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+368,2021.65249,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+369,2021.68492,SouthAfrica - Gauteng,SouthAfrica - FreeState
+370,2021.77532,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+371,2021.61094,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+372,2021.74244,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+373,2021.66573,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+374,2021.7780599999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+375,2021.58627,SouthAfrica - Gauteng,Ghana
+376,2021.66573,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+377,2021.5945,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+378,2021.5808,SouthAfrica - Gauteng,SouthKorea
+379,2021.68217,SouthAfrica - Gauteng,SouthAfrica - FreeState
+380,2021.81368,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+381,2021.5735,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+382,2021.72052,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+383,2021.68765,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+384,2021.5808,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+385,2021.48302,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+386,2021.59176,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+387,2021.69587,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+388,2021.69861,SouthAfrica - Gauteng,Mozambique
+389,2021.61482,SouthAfrica - Gauteng,Eswatini
+390,2021.95341,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+391,2021.70135,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+392,2021.5890299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+393,2021.78081,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+394,2021.70683,SouthAfrica - Gauteng,Eswatini
+395,2021.59176,SouthAfrica - Gauteng,Eswatini
+396,2021.5911899999999,SouthAfrica - Gauteng,Eswatini
+397,2021.85204,Eswatini,SouthAfrica - Mpumalanga
+398,2021.43702,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+399,2021.77532,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+400,2021.54518,SouthAfrica - Gauteng,Germany
+401,2021.59176,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+402,2021.60006,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+403,2021.64656,SouthAfrica - KwaZulu-Natal,Ethiopia
+404,2021.6493,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+405,2021.79998,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+406,2021.58081,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+407,2021.51712,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+408,2021.49598,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+409,2021.59451,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+410,2021.75615,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+411,2021.56438,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+412,2021.6794399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+413,2021.56186,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+414,2021.6410799999999,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+415,2021.56438,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+416,2021.6602599999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+417,2021.68492,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+418,2021.7041,SouthAfrica - Gauteng,UnitedKingdom
+419,2021.60547,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+420,2021.59176,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+421,2021.61368,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+422,2021.63012,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+423,2021.75889,SouthAfrica - KwaZulu-Natal,SouthAfrica - WesternCape
+424,2021.6537,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+425,2021.77533,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+426,2021.63629,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+427,2021.59177,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+428,2021.63287,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+429,2021.7452,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+430,2021.76436,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+431,2021.7451899999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+432,2021.3935999999999,SouthAfrica - Gauteng,Germany
+433,2021.77259,Germany,Denmark
+434,2021.7643699999999,Germany,Denmark
+435,2021.94793,Denmark,Germany
+436,2021.75791,Germany,Denmark
+437,2021.78143,Denmark,Germany
+438,2021.78629,Germany,Denmark
+439,2021.53827,Germany,SouthAfrica - Gauteng
+440,2021.8082,SouthAfrica - Gauteng,Jordan
+441,2021.76142,SouthAfrica - Gauteng,Netherlands
+442,2021.62853,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+443,2021.7588799999999,SouthAfrica - Mpumalanga,Canada
+444,2021.69183,SouthAfrica - Mpumalanga,Jordan
+445,2021.78353,Jordan,Sweden
+446,2021.78079,Jordan,Sweden
+447,2021.6986,Jordan,Germany
+448,2021.75614,Jordan,Sweden
+449,2021.78628,Jordan,Sweden
+450,2021.67687,SouthAfrica - Gauteng,Germany
+451,2021.88301,Germany,Israel
+452,2021.77713,Germany,UnitedArabEmirates
+453,2021.7671,Germany,Sweden
+454,2021.84107,Sweden,Switzerland
+455,2021.80272,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+456,2021.64382,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+457,2021.51232,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+458,2021.7041,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+459,2021.67583,SouthAfrica - Gauteng,SouthAfrica - FreeState
+460,2021.5178,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+461,2021.7451899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+462,2021.61369,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+463,2021.70684,SouthAfrica - Gauteng,SouthAfrica - FreeState
+464,2021.75616,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+465,2021.63835,SouthAfrica - Gauteng,SouthAfrica - FreeState
+466,2021.81095,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+467,2021.5945199999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+468,2021.59726,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+469,2021.90958,SouthAfrica - Gauteng,Zimbabwe
+470,2021.54795,SouthAfrica - Gauteng,Botswana
+471,2021.6548,SouthAfrica - Gauteng,Ethiopia
+472,2021.5680499999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+473,2021.47672,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+474,2021.51336,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+475,2021.67662,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+476,2021.56713,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+477,2021.67398,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+478,2021.7561799999999,SouthAfrica - Gauteng,Lesotho
+479,2021.6348,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+480,2021.73974,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+481,2021.67875,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+482,2021.537,SouthAfrica - Gauteng,Eswatini
+483,2021.6603,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+484,2021.71783,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+485,2021.55071,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+486,2021.78633,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+487,2021.58084,SouthAfrica - Gauteng,USA
+488,2021.65206,SouthAfrica - Gauteng,USA
+489,2021.82467,SouthAfrica - Gauteng,France
+490,2021.67946,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+491,2021.6328899999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+492,2021.58358,SouthAfrica - Gauteng,SouthAfrica - FreeState
+493,2021.70687,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+494,2021.54734,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+495,2021.4510599999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+496,2021.7561799999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+497,2021.72605,SouthAfrica - Gauteng,SouthAfrica - FreeState
+498,2021.86303,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+499,2021.5918,SouthAfrica - Gauteng,Eswatini
+500,2021.64331,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+501,2021.63115,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+502,2021.59454,SouthAfrica - Gauteng,Eswatini
+503,2021.70414,SouthAfrica - Gauteng,SouthAfrica - FreeState
+504,2021.64934,SouthAfrica - Gauteng,France
+505,2021.52057,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+506,2021.57262,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+507,2021.72879,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+508,2021.62194,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+509,2021.60276,SouthAfrica - Gauteng,SouthAfrica - FreeState
+510,2021.61372,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+511,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+512,2021.69044,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+513,2021.59454,SouthAfrica - Gauteng,Sweden
+514,2021.70413,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+515,2021.60276,SouthAfrica - Gauteng,Germany
+516,2021.64386,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+517,2021.82194,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+518,2021.75893,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+519,2021.7561799999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+520,2021.85755,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+521,2021.78084,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+522,2021.6854,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+523,2021.78358,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+524,2021.78632,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+525,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+526,2021.48603,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+527,2021.51236,SouthAfrica - EasternCape,SouthAfrica - NorthernCape
+528,2021.83838,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+529,2021.8657799999999,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+530,2021.73702,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+531,2021.54167,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+532,2021.89319,SouthAfrica - KwaZulu-Natal,USA
+533,2021.75988,SouthAfrica - KwaZulu-Natal,USA
+534,2021.87949,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+535,2021.64388,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+536,2021.60278,SouthAfrica - Gauteng,SouthAfrica - FreeState
+537,2021.60552,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+538,2021.7342899999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+539,2021.73977,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+540,2021.59456,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+541,2021.5792099999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+542,2021.5918199999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+543,2021.58992,SouthAfrica - Gauteng,France
+544,2021.6247,France,Luxembourg
+545,2021.64662,France,Luxembourg
+546,2021.55073,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+547,2021.77538,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+548,2021.5726399999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+549,2021.58087,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+550,2021.64114,SouthAfrica - Limpopo,SouthAfrica - KwaZulu-Natal
+551,2021.66854,SouthAfrica - Gauteng,Switzerland
+552,2021.76991,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+553,2021.60553,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+554,2021.6395,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+555,2021.75896,SouthAfrica - KwaZulu-Natal,Germany
+556,2021.4824899999999,SouthAfrica - Gauteng,Botswana
+557,2021.60387,Botswana,Finland
+558,2021.66031,Finland,Eswatini
+559,2021.64388,Finland,Germany
+560,2021.65484,Germany,India
+561,2021.61648,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+562,2021.58087,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+563,2021.58909,SouthAfrica - Gauteng,Canada
+564,2021.5644399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+565,2021.63293,SouthAfrica - NorthWest,Bangladesh
+566,2021.60997,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+567,2021.68225,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+568,2021.5571,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+569,2021.73976,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+570,2021.5699,SouthAfrica - Gauteng,SouthAfrica - FreeState
+571,2021.50688,SouthAfrica - Gauteng,SouthAfrica - FreeState
+572,2021.4924899999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+573,2021.80277,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+574,2021.65483,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+575,2021.60388,SouthAfrica - Gauteng,Finland
+576,2021.67245,Finland,Germany
+577,2021.70963,Germany,Eswatini
+578,2021.98908,Eswatini,SouthAfrica - KwaZulu-Natal
+579,2021.55619,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+580,2021.58085,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+581,2021.57429,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+582,2021.78084,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+583,2021.64659,SouthAfrica - Gauteng,Malawi
+584,2021.59453,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+585,2021.58906,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+586,2021.61098,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+587,2021.55617,SouthAfrica - Gauteng,SouthAfrica - nan
+588,2021.58808,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+589,2021.6137099999999,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+590,2021.70686,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+591,2021.73701,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+592,2021.6328899999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+593,2021.5644,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+594,2021.76166,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+595,2021.5735,SouthAfrica - Gauteng,Mozambique
+596,2021.68769,Mozambique,Canada
+597,2021.71782,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+598,2021.54248,SouthAfrica - Gauteng,SouthAfrica - nan
+599,2021.64933,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+600,2021.64111,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+601,2021.67672,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+602,2021.62193,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+603,2021.6849399999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+604,2021.77809,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+605,2021.77809,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+606,2021.69317,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+607,2021.7232999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+608,2021.81919,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+609,2021.61377,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+610,2021.83837,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+611,2021.72056,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+612,2021.60275,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+613,2021.59727,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+614,2021.59502,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+615,2021.59179,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+616,2021.7178099999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+617,2021.74521,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+618,2021.57261,SouthAfrica - Gauteng,Mozambique
+619,2021.60049,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+620,2021.63014,SouthAfrica - KwaZulu-Natal,Ethiopia
+621,2021.57535,SouthAfrica - Gauteng,SouthAfrica - FreeState
+622,2021.58905,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+623,2021.78082,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+624,2021.7589,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+625,2021.6137099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+626,2021.77262,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+627,2021.62467,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+628,2021.78357,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+629,2021.61097,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+630,2021.60275,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+631,2021.6289199999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+632,2021.63015,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+633,2021.81918,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+634,2021.69042,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+635,2021.72605,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+636,2021.59454,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+637,2021.74796,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+638,2021.72057,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+639,2021.66172,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+640,2021.55017,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+641,2021.62194,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+642,2021.58906,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+643,2021.61645,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+644,2021.68221,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+645,2021.70686,SouthAfrica - Gauteng,Panama
+646,2021.64386,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+647,2021.66029,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+648,2021.59787,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+649,2021.71049,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+650,2021.53152,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+651,2021.65143,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+652,2021.7041199999999,SouthAfrica - WesternCape,Poland
+653,2021.63835,SouthAfrica - Gauteng,SouthAfrica - FreeState
+654,2021.58356,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+655,2021.61918,SouthAfrica - Gauteng,SouthAfrica - FreeState
+656,2021.55344,SouthAfrica - Gauteng,Mozambique
+657,2021.5466099999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+658,2021.66577,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+659,2021.61868,SouthAfrica - Gauteng,SouthAfrica - FreeState
+660,2021.73975,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+661,2021.78632,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+662,2021.6767,SouthAfrica - Gauteng,Philippines
+663,2021.69865,Philippines,Ireland
+664,2021.7096099999999,Ireland,Malaysia
+665,2021.7507,Philippines,Ireland
+666,2021.76746,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+667,2021.64111,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+668,2021.71508,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+669,2021.71782,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+670,2021.6055,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+671,2021.7233099999999,SouthAfrica - Gauteng,Argentina
+672,2021.61098,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+673,2021.61646,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+674,2021.6877,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+675,2021.6142399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+676,2021.6712499999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+677,2021.71303,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+678,2021.74523,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+679,2021.71784,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+680,2021.74524,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+681,2021.57743,SouthAfrica - Gauteng,SouthAfrica - FreeState
+682,2021.61645,SouthAfrica - FreeState,SouthAfrica - Gauteng
+683,2021.5287799999999,SouthAfrica - Gauteng,Eswatini
+684,2021.64111,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+685,2021.75571,SouthAfrica - Gauteng,SouthAfrica - FreeState
+686,2021.75893,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+687,2021.64112,SouthAfrica - Gauteng,SouthAfrica - FreeState
+688,2021.63291,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+689,2021.66379,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+690,2021.5040999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+691,2021.67948,SouthAfrica - Gauteng,Eswatini
+692,2021.59099,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+693,2021.62195,SouthAfrica - Gauteng,SouthAfrica - FreeState
+694,2021.61373,SouthAfrica - Gauteng,SouthAfrica - FreeState
+695,2021.55619,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+696,2021.63016,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+697,2021.6603,SouthAfrica - Gauteng,SouthAfrica - FreeState
+698,2021.64565,SouthAfrica - Gauteng,SouthAfrica - FreeState
+699,2021.80825,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+700,2021.74524,SouthAfrica - Gauteng,Botswana
+701,2021.61373,SouthAfrica - Gauteng,SouthAfrica - FreeState
+702,2021.86579,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+703,2021.73702,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+704,2021.58908,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+705,2021.63017,SouthAfrica - Gauteng,SouthAfrica - FreeState
+706,2021.68223,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+707,2021.67949,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+708,2021.7425,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+709,2021.73702,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+710,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+711,2021.70688,SouthAfrica - Gauteng,SouthAfrica - FreeState
+712,2021.73703,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+713,2021.6983599999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+714,2021.58086,SouthAfrica - Gauteng,Eswatini
+715,2021.86031,Eswatini,SouthAfrica - Mpumalanga
+716,2021.83565,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+717,2021.65313,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+718,2021.60696,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+719,2021.88772,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+720,2021.55774,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+721,2021.69045,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+722,2021.60825,SouthAfrica - Gauteng,Eswatini
+723,2021.56989,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+724,2021.6416199999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+725,2021.8328999999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+726,2021.6603,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+727,2021.75893,SouthAfrica - Gauteng,SouthAfrica - FreeState
+728,2021.71783,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+729,2021.80276,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+730,2021.61098,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+731,2021.61098,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+732,2021.61646,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+733,2021.6191999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+734,2021.6603,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+735,2021.68495,SouthAfrica - Gauteng,Eswatini
+736,2021.68222,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+737,2021.67948,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+738,2021.74797,SouthAfrica - Gauteng,Bahrain
+739,2021.63016,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+740,2021.8192,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+741,2021.77263,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+742,2021.70687,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+743,2021.70687,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+744,2021.64112,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+745,2021.74147,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+746,2021.64112,SouthAfrica - Gauteng,SouthAfrica - FreeState
+747,2021.64112,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+748,2021.7616699999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+749,2021.65482,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+750,2021.73701,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+751,2021.64934,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+752,2021.74523,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+753,2021.69044,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+754,2021.61098,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+755,2021.58359,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+756,2021.58359,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+757,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+758,2021.56989,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+759,2021.6877,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+760,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+761,2021.57263,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+762,2021.62255,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+763,2021.6191999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+764,2021.82468,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+765,2021.72879,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+766,2021.61099,SouthAfrica - Gauteng,Italy
+767,2021.72332,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+768,2021.7096199999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+769,2021.9041399999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+770,2021.58359,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+771,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+772,2021.63291,SouthAfrica - Gauteng,SouthAfrica - FreeState
+773,2021.5666999999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+774,2021.69866,SouthAfrica - FreeState,Ghana
+775,2021.83017,Ghana,SouthAfrica - FreeState
+776,2021.69044,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+777,2021.60825,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+778,2021.59287,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+779,2021.5465199999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+780,2021.64935,SouthAfrica - FreeState,SouthAfrica - WesternCape
+781,2021.69866,SouthAfrica - FreeState,SouthAfrica - Gauteng
+782,2021.61943,SouthAfrica - FreeState,SouthAfrica - WesternCape
+783,2021.5726399999999,SouthAfrica - FreeState,SouthAfrica - WesternCape
+784,2021.8000299999999,SouthAfrica - FreeState,SouthAfrica - WesternCape
+785,2021.54798,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+786,2021.89593,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+787,2021.52586,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+788,2021.53263,SouthAfrica - Gauteng,SouthAfrica - FreeState
+789,2021.61922,SouthAfrica - FreeState,SouthAfrica - Gauteng
+790,2021.5534599999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+791,2021.75894,SouthAfrica - Gauteng,SouthAfrica - FreeState
+792,2021.7425,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+793,2021.6438699999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+794,2021.5534599999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+795,2021.66853,SouthAfrica - Gauteng,SouthAfrica - FreeState
+796,2021.93428,SouthAfrica - Gauteng,Lesotho
+797,2021.72881,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+798,2021.55347,SouthAfrica - Gauteng,Mozambique
+799,2021.69319,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+800,2021.64936,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+801,2021.69867,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+802,2021.60826,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+803,2021.64114,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+804,2021.56716,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+805,2021.60552,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+806,2021.55894,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+807,2021.5591299999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+808,2021.55324,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+809,2021.63291,SouthAfrica - Gauteng,SouthAfrica - FreeState
+810,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+811,2021.6206399999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+812,2021.73428,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+813,2021.75893,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+814,2021.72606,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+815,2021.56442,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+816,2021.62743,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+817,2021.79455,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+818,2021.56441,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+819,2021.66304,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+820,2021.64112,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+821,2021.69592,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+822,2021.53475,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+823,2021.65208,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+824,2021.81099,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+825,2021.6383799999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+826,2021.64933,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+827,2021.75892,SouthAfrica - KwaZulu-Natal,SouthAfrica - WesternCape
+828,2021.64112,SouthAfrica - Gauteng,SouthAfrica - FreeState
+829,2021.64934,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+830,2021.6383799999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+831,2021.58359,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+832,2021.67948,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+833,2021.6603,SouthAfrica - Gauteng,Mozambique
+834,2021.75893,SouthAfrica - Gauteng,Mozambique
+835,2021.75619,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+836,2021.6416199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+837,2021.72604,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+838,2021.78083,SouthAfrica - Mpumalanga,SouthAfrica - WesternCape
+839,2021.68223,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+840,2021.65209,SouthAfrica - Gauteng,Germany
+841,2021.60003,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+842,2021.60277,SouthAfrica - Gauteng,SouthAfrica - FreeState
+843,2021.65209,SouthAfrica - Gauteng,Germany
+844,2021.73702,Germany,SouthAfrica - Mpumalanga
+845,2021.63017,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+846,2021.67948,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+847,2021.59455,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+848,2021.5874,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+849,2021.82743,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+850,2021.72058,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+851,2021.8192099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+852,2021.72058,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+853,2021.5671499999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+854,2021.56989,SouthAfrica - Gauteng,SouthAfrica - FreeState
+855,2021.5918,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+856,2021.7424899999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+857,2021.60276,SouthAfrica - Gauteng,SouthAfrica - FreeState
+858,2021.62194,SouthAfrica - Gauteng,SouthAfrica - FreeState
+859,2021.5699,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+860,2021.7836,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+861,2021.5699,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+862,2021.63565,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+863,2021.57263,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+864,2021.5726399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+865,2021.57263,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+866,2021.64112,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+867,2021.8657799999999,SouthAfrica - FreeState,SouthAfrica - Gauteng
+868,2021.57713,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+869,2021.70139,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+870,2021.7233099999999,SouthAfrica - Mpumalanga,SouthAfrica - NorthWest
+871,2021.5274299999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+872,2021.62741,SouthAfrica - FreeState,SouthAfrica - Gauteng
+873,2021.80824,SouthAfrica - FreeState,SouthAfrica - KwaZulu-Natal
+874,2021.74248,SouthAfrica - FreeState,SouthAfrica - KwaZulu-Natal
+875,2021.7233099999999,SouthAfrica - FreeState,SouthAfrica - KwaZulu-Natal
+876,2021.60276,SouthAfrica - FreeState,SouthAfrica - Gauteng
+877,2021.57067,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+878,2021.61646,SouthAfrica - NorthWest,SouthAfrica - FreeState
+879,2021.7781,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+880,2021.7424899999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+881,2021.73975,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+882,2021.87948,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+883,2021.58085,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+884,2021.58358,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+885,2021.58358,SouthAfrica - Gauteng,SouthAfrica - FreeState
+886,2021.58085,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+887,2021.58084,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+888,2021.57068,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+889,2021.77538,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+890,2021.77811,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+891,2021.49593,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+892,2021.66854,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+893,2021.58635,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+894,2021.79731,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+895,2021.87128,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+896,2021.69867,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+897,2021.61374,SouthAfrica - Gauteng,Germany
+898,2021.58907,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+899,2021.59181,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+900,2021.59181,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+901,2021.68222,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+902,2021.77537,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+903,2021.67948,SouthAfrica - Gauteng,SouthAfrica - FreeState
+904,2021.7808499999999,SouthAfrica - FreeState,Malawi
+905,2021.64933,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+906,2021.63563,SouthAfrica - Gauteng,SouthAfrica - FreeState
+907,2021.68222,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+908,2021.68221,SouthAfrica - Gauteng,Eswatini
+909,2021.59729,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+910,2021.59729,SouthAfrica - NorthWest,SouthAfrica - KwaZulu-Natal
+911,2021.7287999999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+912,2021.84661,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+913,2021.7973,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+914,2021.70379,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+915,2021.72059,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+916,2021.74799,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+917,2021.6959299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+918,2021.75895,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+919,2021.78909,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+920,2021.73977,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+921,2021.69046,SouthAfrica - Gauteng,SouthAfrica - FreeState
+922,2021.8192199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+923,2021.82744,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+924,2021.60278,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+925,2021.61207,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+926,2021.68771,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+927,2021.77538,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+928,2021.63291,SouthAfrica - Gauteng,Mozambique
+929,2021.81648,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+930,2021.70415,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+931,2021.70689,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+932,2021.61593,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+933,2021.76717,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+934,2021.7863499999999,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+935,2021.70963,SouthAfrica - Gauteng,Germany
+936,2021.75895,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+937,2021.62196,SouthAfrica - Gauteng,SouthAfrica - FreeState
+938,2022.24661,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+939,2021.62529,SouthAfrica - Gauteng,SouthAfrica - FreeState
+940,2021.61922,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+941,2021.76717,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+942,2021.59184,SouthAfrica - Gauteng,SouthAfrica - FreeState
+943,2021.62744,SouthAfrica - FreeState,SouthAfrica - EasternCape
+944,2021.6858399999999,SouthAfrica - EasternCape,SouthAfrica - NorthernCape
+945,2021.68772,SouthAfrica - NorthernCape,SouthAfrica - KwaZulu-Natal
+946,2021.66854,SouthAfrica - FreeState,Malawi
+947,2021.6932,SouthAfrica - FreeState,SouthAfrica - Gauteng
+948,2021.86306,SouthAfrica - FreeState,SouthAfrica - EasternCape
+949,2021.51786,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+950,2021.72333,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+951,2021.77813,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+952,2021.64936,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+953,2021.73977,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+954,2021.64114,SouthAfrica - Gauteng,SouthAfrica - FreeState
+955,2021.6521,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+956,2021.6521,SouthAfrica - Gauteng,Germany
+957,2021.71785,SouthAfrica - Gauteng,SouthAfrica - FreeState
+958,2021.55622,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+959,2021.55622,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+960,2021.56169,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+961,2021.56169,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+962,2021.56991,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+963,2021.5726399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+964,2021.5726399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+965,2021.57538,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+966,2021.5836,SouthAfrica - Gauteng,France
+967,2021.57875,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+968,2021.78633,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+969,2021.7425,SouthAfrica - KwaZulu-Natal,SouthAfrica - Limpopo
+970,2021.6700799999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+971,2021.75894,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+972,2021.80551,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+973,2021.7287999999999,SouthAfrica - Gauteng,Germany
+974,2021.81373,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+975,2021.59017,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+976,2021.59409,SouthAfrica - NorthWest,SouthAfrica - KwaZulu-Natal
+977,2021.5973,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+978,2021.60387,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+979,2021.60552,SouthAfrica - Gauteng,SouthAfrica - FreeState
+980,2021.62038,SouthAfrica - Gauteng,SouthAfrica - FreeState
+981,2021.62578,SouthAfrica - FreeState,SouthAfrica - Gauteng
+982,2021.62743,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+983,2021.63291,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+984,2021.64386,SouthAfrica - KwaZulu-Natal,Germany
+985,2021.64499,SouthAfrica - KwaZulu-Natal,Germany
+986,2021.6603,Germany,SouthAfrica - FreeState
+987,2021.66304,Germany,SouthAfrica - KwaZulu-Natal
+988,2021.66578,Germany,SouthAfrica - Gauteng
+989,2021.67126,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+990,2021.69044,SouthAfrica - Gauteng,Germany
+991,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+992,2021.73975,SouthAfrica - Gauteng,Germany
+993,2021.75619,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+994,2021.76441,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-E4175Natal
+995,2021.37822,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+996,2021.61642,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+997,2021.81094,SouthAfrica - WesternCape,Botswana
+998,2021.57469,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+999,2021.7041,SouthAfrica - KwaZulu-Natal,SouthAfrica - Limpopo
+1000,2021.74246,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1001,2021.64383,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1002,2021.78082,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1003,2021.64383,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1004,2021.7780599999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1005,2021.73868,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1006,2021.84107,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+1007,2021.86299,SouthAfrica - Gauteng,France
+1008,2021.77532,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1009,2021.67121,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1010,2021.6493,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1011,2021.6027199999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1012,2021.71505,SouthAfrica - Gauteng,SouthKorea
+1013,2021.50208,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1014,2021.6027199999999,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1015,2021.72875,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1016,2021.72875,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1017,2021.64382,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1018,2021.6410799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1019,2021.62738,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1020,2021.73696,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1021,2021.42455,SouthAfrica - Gauteng,Eswatini
+1022,2021.8575,Eswatini,SouthAfrica - Mpumalanga
+1023,2021.6547699999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1024,2021.49424,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1025,2021.75066,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1026,2021.76983,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+1027,2021.62189,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1028,2021.55614,SouthAfrica - Gauteng,SouthAfrica - nan
+1029,2021.60547,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1030,2021.61642,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1031,2021.83286,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1032,2021.61369,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1033,2021.6273899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1034,2021.64382,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1035,2021.55404,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1036,2021.60546,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1037,2021.73697,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1038,2021.63012,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1039,2022.00272,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1040,2021.75614,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1041,2021.77532,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1042,2021.76543,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1043,2021.64655,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1044,2021.76162,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1045,2021.75614,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1046,2021.53441,SouthAfrica - Gauteng,Mozambique
+1047,2021.70683,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1048,2021.76436,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1049,2021.7115999999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1050,2021.9342199999999,SouthAfrica - EasternCape,SouthAfrica - Mpumalanga
+1051,2021.77532,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1052,2021.65949,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1053,2021.66025,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1054,2021.66299,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1055,2021.54792,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1056,2021.54308,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1057,2021.61255,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthernCape
+1058,2021.61915,SouthAfrica - Gauteng,Ireland
+1059,2021.66573,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1060,2021.78354,SouthAfrica - NorthernCape,SouthAfrica - Gauteng
+1061,2021.54792,SouthAfrica - Gauteng,Lesotho
+1062,2021.66847,Lesotho,USA
+1063,2021.66256,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1064,2021.83559,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+1065,2021.5478699999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1066,2021.51506,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1067,2021.58081,SouthAfrica - NorthernCape,SouthAfrica - EasternCape
+1068,2021.52876,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1069,2021.60274,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1070,2021.5297699999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1071,2021.54795,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1072,2021.76165,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1073,2021.56987,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1074,2021.76712,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1075,2021.53151,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1076,2021.60822,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1077,2021.64388,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1078,2021.66848,SouthAfrica - Gauteng,Canada
+1079,2021.56986,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1080,2021.6136999999999,SouthAfrica - FreeState,SouthAfrica - Mpumalanga
+1081,2021.54794,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1082,2021.6082099999999,SouthAfrica - Gauteng,Eswatini
+1083,2021.65479,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1084,2021.72602,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1085,2021.61369,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1086,2021.64575,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1087,2021.54246,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1088,2021.60548,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1089,2021.86027,SouthAfrica - EasternCape,SouthAfrica - NorthernCape
+1090,2021.69041,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1091,2021.6273899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1092,2021.55615,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1093,2021.56845,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1094,2021.65478,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1095,2021.58081,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1096,2021.58629,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1097,2021.50684,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1098,2021.5561599999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1099,2021.58082,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1100,2021.5945199999999,SouthAfrica - WesternCape,SouthAfrica - Limpopo
+1101,2021.60822,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1102,2021.64932,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1103,2021.6685,SouthAfrica - EasternCape,SouthAfrica - NorthernCape
+1104,2021.67397,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1105,2021.64382,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1106,2021.58295,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1107,2021.7041,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1108,2021.6082099999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1109,2021.86574,SouthAfrica - Gauteng,Eswatini
+1110,2021.86574,SouthAfrica - Gauteng,Eswatini
+1111,2021.77807,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1112,2021.85752,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1113,2021.72329,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1114,2021.87671,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1115,2021.67213,SouthAfrica - Gauteng,USA
+1116,2021.7178099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1117,2021.6411,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1118,2021.68219,SouthAfrica - Gauteng,Poland
+1119,2021.6794499999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1120,2021.71782,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1121,2021.69864,SouthAfrica - Gauteng,Eswatini
+1122,2021.6849399999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1123,2021.4761799999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1124,2021.8685,SouthAfrica - Gauteng,Eswatini
+1125,2021.74247,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1126,2021.67124,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1127,2021.56713,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1128,2021.77808,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1129,2021.65206,SouthAfrica - Gauteng,Germany
+1130,2021.74521,Germany,SouthAfrica - FreeState
+1131,2021.55343,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1132,2021.66947,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1133,2021.71782,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1134,2021.55343,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1135,2021.7096,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1136,2021.80549,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1137,2021.72603,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1138,2021.56438,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1139,2021.56132,SouthAfrica - Gauteng,Eswatini
+1140,2021.6548,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1141,2021.66575,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1142,2021.78903,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1143,2021.61369,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1144,2021.84383,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1145,2021.7064599999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1146,2021.81917,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1147,2021.72054,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1148,2021.62191,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1149,2021.59178,SouthAfrica - Gauteng,UnitedKingdom
+1150,2021.68767,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1151,2021.60287,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1152,2021.5753399999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1153,2021.59999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1154,2021.60822,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1155,2021.73424,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1156,2021.7612,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1157,2021.59178,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1158,2021.7698599999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1159,2021.61369,SouthAfrica - Gauteng,Eswatini
+1160,2021.6465699999999,SouthAfrica - Gauteng,Germany
+1161,2021.5726,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1162,2022.0164399999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1163,2021.74246,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1164,2021.70411,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1165,2021.72877,SouthAfrica - Gauteng,Germany
+1166,2021.70685,SouthAfrica - Gauteng,Eswatini
+1167,2021.67123,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1168,2021.63287,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1169,2021.57157,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1170,2021.66301,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1171,2021.7079099999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1172,2021.75616,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1173,2021.66301,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1174,2021.70694,SouthAfrica - NorthWest,Iceland
+1175,2021.7096,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1176,2021.58356,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1177,2021.60822,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1178,2021.6849399999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1179,2021.68768,SouthAfrica - Gauteng,France
+1180,2021.74796,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1181,2021.6328899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1182,2021.55108,SouthAfrica - Gauteng,Eswatini
+1183,2021.61644,Eswatini,SouthAfrica - KwaZulu-Natal
+1184,2021.62193,Eswatini,SouthAfrica - Gauteng
+1185,2021.8548,Eswatini,SouthAfrica - Mpumalanga
+1186,2021.86027,Eswatini,SouthAfrica - Mpumalanga
+1187,2021.8548,Eswatini,SouthAfrica - Mpumalanga
+1188,2021.87124,Eswatini,SouthAfrica - Mpumalanga
+1189,2021.83346,Eswatini,SouthAfrica - Mpumalanga
+1190,2021.86029,Eswatini,SouthAfrica - EasternCape
+1191,2021.88221,Eswatini,SouthAfrica - EasternCape
+1192,2021.88221,Eswatini,SouthAfrica - EasternCape
+1193,2021.54794,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1194,2021.70413,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1195,2021.70413,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1196,2021.58904,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1197,2021.63014,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1198,2021.77809,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1199,2021.6435,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1200,2021.51139,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1201,2021.80275,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1202,2021.7561699999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1203,2021.6411,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1204,2021.77809,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1205,2021.60275,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1206,2021.52615,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1207,2021.60276,SouthAfrica - Limpopo,SouthAfrica - NorthWest
+1208,2021.57809,SouthAfrica - Gauteng,Ghana
+1209,2021.5874099999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1210,2021.73974,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1211,2021.56166,SouthAfrica - Gauteng,SouthAfrica - nan
+1212,2021.59727,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1213,2021.70189,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1214,2021.80276,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1215,2021.64112,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1216,2021.7561799999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1217,2021.6776499999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1218,2021.99455,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1219,2021.8192,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1220,2021.71508,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1221,2021.5764,SouthAfrica - Gauteng,Mozambique
+1222,2021.57809,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1223,2021.6411,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+1224,2021.83289,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1225,2021.69865,SouthAfrica - Gauteng,Germany
+1226,2021.70138,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1227,2021.85207,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1228,2021.70138,SouthAfrica - Gauteng,Eswatini
+1229,2021.72605,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1230,2021.70687,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1231,2021.58906,SouthAfrica - Gauteng,Mozambique
+1232,2021.60824,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1233,2021.74796,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1234,2021.70139,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1235,2021.7096099999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1236,2021.76441,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1237,2021.72057,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1238,2021.62468,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1239,2021.58084,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1240,2021.73974,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1241,2021.48093,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1242,2021.74522,SouthAfrica - WesternCape,Botswana
+1243,2021.61054,SouthAfrica - WesternCape,Chad
+1244,2021.64659,Chad,France
+1245,2021.64933,France,Italy
+1246,2021.68495,Italy,Canada
+1247,2021.56988,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1248,2021.6390099999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1249,2021.67994,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1250,2021.73973,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1251,2021.90137,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1252,2021.73974,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1253,2021.60276,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1254,2021.72057,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1255,2021.59715,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1256,2021.58905,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1257,2021.48977,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1258,2021.8657699999999,SouthAfrica - Gauteng,Eswatini
+1259,2021.61698,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1260,2021.57262,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1261,2021.5918,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1262,2021.68495,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1263,2021.53483,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1264,2021.64385,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1265,2021.63563,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1266,2021.5644,SouthAfrica - Gauteng,Mozambique
+1267,2021.8794599999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1268,2021.61645,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1269,2021.5071699999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1270,2021.5644,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1271,2021.68221,SouthAfrica - WesternCape,Eswatini
+1272,2021.5874,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+1273,2021.69316,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1274,2021.51234,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1275,2021.6328899999999,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1276,2021.81919,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1277,2021.64795,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1278,2021.60275,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1279,2021.55984,SouthAfrica - Gauteng,Netherlands
+1280,2021.59111,Netherlands,SouthAfrica - KwaZulu-Natal
+1281,2021.70139,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1282,2021.75892,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1283,2021.60824,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1284,2021.57883,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1285,2021.65251,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1286,2021.6021799999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1287,2021.62743,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+1288,2021.5559799999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1289,2021.62742,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1290,2021.7424899999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1291,2021.6329,SouthAfrica - NorthWest,USA
+1292,2021.54523,SouthAfrica - Gauteng,Norway
+1293,2021.67948,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1294,2021.70688,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1295,2021.69592,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1296,2021.77811,SouthAfrica - Gauteng,Botswana
+1297,2021.58161,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1298,2021.72057,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+1299,2021.58359,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1300,2021.58358,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1301,2021.66304,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1302,2021.6329,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1303,2021.76166,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1304,2021.66577,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1305,2021.56988,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1306,2021.63015,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1307,2021.75619,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1308,2021.5876,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1309,2021.74523,SouthAfrica - WesternCape,SouthAfrica - FreeState
+1310,2021.58632,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1311,2021.65755,SouthAfrica - Gauteng,UnitedKingdom
+1312,2021.7753599999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1313,2021.70413,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1314,2021.5994699999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1315,2021.65236,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+1316,2021.54522,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1317,2021.58358,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1318,2021.58358,SouthAfrica - Gauteng,SouthAfrica - nan
+1319,2021.70413,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1320,2021.74797,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1321,2021.70687,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1322,2021.60824,SouthAfrica - Gauteng,Mozambique
+1323,2021.7233099999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1324,2021.6603,SouthAfrica - Gauteng,Mozambique
+1325,2021.74523,SouthAfrica - Gauteng,USA
+1326,2021.52547,SouthAfrica - Gauteng,Botswana
+1327,2021.66029,Botswana,UnitedKingdom
+1328,2021.66579,Botswana,SouthAfrica - WesternCape
+1329,2021.72604,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1330,2021.48936,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1331,2021.70413,SouthAfrica - FreeState,Eswatini
+1332,2021.47428,SouthAfrica - Gauteng,Eswatini
+1333,2021.7616699999999,Eswatini,SouthAfrica - NorthernCape
+1334,2021.5863299999999,Eswatini,SouthAfrica - KwaZulu-Natal
+1335,2021.63017,SouthAfrica - Gauteng,Zimbabwe
+1336,2021.61647,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1337,2021.66852,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1338,2021.63291,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1339,2021.95894,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1340,2021.58086,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1341,2021.69433,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1342,2021.77538,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1343,2021.60277,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1344,2021.60277,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1345,2021.74523,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1346,2021.75893,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1347,2021.51784,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1348,2021.56168,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1349,2021.7479799999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+1350,2021.89593,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+1351,2021.6191999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1352,2022.01373,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1353,2021.66304,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1354,2021.64934,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1355,2021.66304,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1356,2021.7424899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1357,2021.64386,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1358,2021.69866,SouthAfrica - Gauteng,Eswatini
+1359,2021.60003,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1360,2021.6603,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1361,2021.66031,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1362,2021.6055099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1363,2021.68496,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1364,2021.76441,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1365,2021.56041,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1366,2021.69391,SouthAfrica - Limpopo,Slovenia
+1367,2021.65483,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+1368,2021.56716,SouthAfrica - Limpopo,SouthAfrica - NorthWest
+1369,2021.67949,SouthAfrica - Limpopo,SouthAfrica - FreeState
+1370,2021.60552,SouthAfrica - Limpopo,SouthAfrica - EasternCape
+1371,2021.6247,SouthAfrica - EasternCape,SouthAfrica - NorthWest
+1372,2021.72059,SouthAfrica - NorthWest,Eswatini
+1373,2021.85484,Eswatini,SouthAfrica - Mpumalanga
+1374,2021.75893,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1375,2021.74797,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1376,2021.59181,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1377,2021.74523,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1378,2021.59292,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1379,2021.63839,SouthAfrica - NorthernCape,UnitedKingdom
+1380,2021.71784,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1381,2021.72332,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1382,2021.59456,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1383,2021.74525,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1384,2021.61647,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1385,2021.55743,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1386,2021.62195,SouthAfrica - NorthWest,SouthAfrica - FreeState
+1387,2021.57465,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1388,2021.69319,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+1389,2021.68223,SouthAfrica - Gauteng,USA
+1390,2021.64936,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1391,2021.57265,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1392,2021.49858,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1393,2021.61375,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1394,2021.56712,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1395,2021.5593999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1396,2021.7863399999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1397,2021.85756,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1398,2021.78908,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1399,2021.8639799999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1400,2021.6761099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1401,2021.7973,SouthAfrica - Mpumalanga,SouthAfrica - KwaZulu-Natal
+1402,2021.64115,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1403,2021.58909,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1404,2021.60005,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1405,2021.72334,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1406,2021.60586,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1407,2022.00279,SouthAfrica - Gauteng,Eswatini
+1408,2021.58361,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1409,2021.93704,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1410,2021.8442499999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1411,2021.52882,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1412,2021.73704,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1413,2021.95896,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1414,2021.61728,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1415,2021.6493699999999,SouthAfrica - NorthernCape,Japan
+1416,2021.99183,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1417,2021.64114,SouthAfrica - Gauteng,Eswatini
+1418,2021.61375,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1419,2021.69868,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1420,2021.80005,SouthAfrica - Gauteng,Lesotho
+1421,2021.78087,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1422,2021.75621,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1423,2021.73704,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1424,2021.58087,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1425,2021.6630599999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1426,2021.90964,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1427,2021.74799,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1428,2021.83566,SouthAfrica - NorthernCape,SouthAfrica - NorthWest
+1429,2021.62198,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1430,2021.48477,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1431,2021.53978,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1432,2021.55348,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1433,2021.52609,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1434,2021.8576,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1435,2021.6164899999999,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1436,2021.55347,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+1437,2021.6438699999999,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+1438,2021.60278,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1439,2021.62196,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1440,2021.60826,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1441,2021.748,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1442,2021.74251,SouthAfrica - WesternCape,Germany
+1443,2021.7479799999999,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+1444,2021.57539,SouthAfrica - WesternCape,Denmark
+1445,2021.58087,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1446,2021.75894,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1447,2021.97264,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1448,2021.79901,SouthAfrica - WesternCape,USA
+1449,2021.71239,SouthAfrica - WesternCape,UnitedKingdom
+1450,2021.8301999999999,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1451,2021.66033,SouthAfrica - WesternCape,SouthAfrica - Limpopo
+1452,2021.87677,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1453,2021.6822399999999,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+1454,2021.61375,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+1455,2021.66581,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1456,2021.79183,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1457,2021.59184,SouthAfrica - WesternCape,SouthAfrica - Limpopo
+1458,2021.6164899999999,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1459,2021.8959499999999,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+1460,2021.72061,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+1461,2021.83293,SouthAfrica - WesternCape,Switzerland
+1462,2021.62746,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1463,2021.8165,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+1464,2021.80555,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1465,2021.77364,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1466,2021.81649,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1467,2021.80554,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1468,2021.60384,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1469,2021.6301899999999,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1470,2021.73156,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1471,2021.60827,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1472,2021.65211,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1473,2021.65211,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1474,2021.73705,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1475,2021.60828,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1476,2021.748,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1477,2021.6164999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1478,2021.52715,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1479,2021.60554,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1480,2021.5979399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1481,2021.67951,SouthAfrica - NorthWest,SouthAfrica - FreeState
+1482,2021.6028,SouthAfrica - NorthWest,SouthAfrica - EasternCape
+1483,2021.4768,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1484,2021.81924,SouthAfrica - Limpopo,SouthAfrica - Mpumalanga
+1485,2021.8630799999999,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1486,2021.62602,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1487,2021.7260999999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1488,2021.57092,SouthAfrica - Limpopo,Eswatini
+1489,2021.7397899999999,SouthAfrica - Gauteng,UnitedKingdom
+1490,2021.67952,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1491,2021.61102,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1492,2021.61101,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1493,2021.6302,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1494,2021.56445,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1495,2021.74253,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1496,2021.55041,SouthAfrica - Gauteng,France
+1497,2021.55428,SouthAfrica - Gauteng,France
+1498,2021.57452,SouthAfrica - Gauteng,France
+1499,2021.75622,France,SouthAfrica - WesternCape
+1500,2021.71788,France,SouthAfrica - WesternCape
+1501,2021.61651,France,Italy
+1502,2021.76171,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1503,2021.82472,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1504,2021.5973199999999,SouthAfrica - Gauteng,SouthAfrica - nan
+1505,2021.5546,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1506,2021.55897,SouthAfrica - WesternCape,Belgium
+1507,2021.57267,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1508,2021.64343,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1509,2021.75624,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1510,2021.64665,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1511,2021.75624,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1512,2021.84391,SouthAfrica - NorthernCape,SouthAfrica - EasternCape
+1513,2021.61376,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1514,2021.50769,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1515,2021.64938,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1516,2021.74801,SouthAfrica - Gauteng,USA
+1517,2021.64116,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1518,2021.62197,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1519,2021.75622,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1520,2021.75896,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+1521,2021.75622,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1522,2021.9863599999999,SouthAfrica - Gauteng,India
+1523,2021.7617,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1524,2021.64389,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1525,2021.50512,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1526,2021.58893,SouthAfrica - NorthWest,France
+1527,2021.60592,France,Portugal
+1528,2021.6302,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1529,2021.76444,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1530,2021.67951,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1531,2021.6493699999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1532,2021.6301899999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1533,2021.7069,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1534,2021.76718,SouthAfrica - Gauteng,Denmark
+1535,2021.7260899999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1536,2021.5973199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1537,2021.7617,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1538,2021.64115,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1539,2021.5836199999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1540,2021.66581,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1541,2021.7069,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1542,2021.7397799999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1543,2021.69868,SouthAfrica - Gauteng,Sweden
+1544,2021.74145,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1545,2021.7397799999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1546,2021.64115,SouthAfrica - Gauteng,France
+1547,2021.7617,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1548,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1549,2021.75436,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1550,2021.62198,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1551,2021.63293,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1552,2021.60006,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1553,2021.62198,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1554,2021.63567,SouthAfrica - Gauteng,Japan
+1555,2021.6521,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1556,2021.79731,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1557,2021.59456,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1558,2021.5534599999999,SouthAfrica - Gauteng,UnitedKingdom
+1559,2021.73977,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1560,2021.79456,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1561,2021.51784,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1562,2021.58574,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+1563,2021.57168,SouthAfrica - Gauteng,France
+1564,2021.78359,France,SouthAfrica - Gauteng
+1565,2021.52567,SouthAfrica - Gauteng,France
+1566,2021.58907,France,SouthAfrica - Gauteng
+1567,2021.59455,France,Sweden
+1568,2021.64934,France,SouthAfrica - Gauteng
+1569,2021.58738,France,SouthAfrica - Gauteng
+1570,2021.6594,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1571,2021.60068,SouthAfrica - Gauteng,France
+1572,2021.60552,France,Martinique
+1573,2021.58634,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1574,2021.53702,SouthAfrica - Gauteng,Eswatini
+1575,2021.61921,Eswatini,SouthAfrica - KwaZulu-Natal
+1576,2021.73428,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1577,2021.61373,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1578,2021.65757,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1579,2021.76168,SouthAfrica - EasternCape,SouthAfrica - Mpumalanga
+1580,2021.9424999999999,SouthAfrica - Mpumalanga,SouthAfrica - KwaZulu-Natal
+1581,2021.6438699999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1582,2021.58086,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1583,2021.76168,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1584,2021.54524,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1585,2021.6109999999999,SouthAfrica - FreeState,SouthAfrica - Gauteng
+1586,2021.65757,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1587,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1588,2021.62135,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1589,2021.5562,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1590,2021.69579,SouthAfrica - WesternCape,UnitedKingdom
+1591,2021.81373,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1592,2021.79729,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1593,2021.60277,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1594,2021.75893,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1595,2021.55838,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1596,2021.76442,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+1597,2021.53316,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1598,2021.60004,SouthAfrica - Gauteng,SouthAfrica - nan
+1599,2021.70963,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1600,2021.62196,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1601,2021.5918199999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1602,2021.63936,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1603,2021.73976,SouthAfrica - Mpumalanga,SouthAfrica - WesternCape
+1604,2021.58087,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1605,2021.61346,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1606,2021.7973,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1607,2021.6109999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1608,2021.72059,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1609,2021.66948,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1610,2021.71785,SouthAfrica - KwaZulu-Natal,SouthAfrica - WesternCape
+1611,2021.56085,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1612,2021.7671599999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+1613,2021.73703,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+1614,2021.69193,SouthAfrica - KwaZulu-Natal,UnitedKingdom
+1615,2021.85757,SouthAfrica - KwaZulu-Natal,SouthAfrica - EasternCape
+1616,2021.5856099999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1617,2021.6767499999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - WesternCape
+1618,2021.75894,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1619,2021.6109999999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1620,2021.61648,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1621,2021.59456,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1622,2021.76442,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1623,2021.72059,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1624,2021.60826,SouthAfrica - Gauteng,SouthAfrica - nan
+1625,2021.64936,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1626,2021.76169,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1627,2021.77812,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1628,2021.72608,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1629,2021.83567,SouthAfrica - Gauteng,Eswatini
+1630,2021.73704,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1631,2021.76718,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1632,2021.74526,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1633,2021.60552,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1634,2021.8823,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1635,2021.80277,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1636,2021.8000299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1637,2021.49812,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1638,2021.82469,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1639,2021.68222,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1640,2021.80276,SouthAfrica - WesternCape,SouthAfrica - NorthernCape
+1641,2021.75345,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1642,2021.5726399999999,SouthAfrica - WesternCape,SouthAfrica - FreeState
+1643,2021.63291,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+1644,2021.7014199999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1645,2021.64114,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1646,2021.60826,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1647,2021.62196,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1648,2021.5918199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1649,2021.68976,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1650,2021.59257,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1651,2021.72607,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1652,2021.52304,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1653,2021.47747,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1654,2021.6109999999999,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1655,2021.5973,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1656,2021.5918199999999,SouthAfrica - EasternCape,SouthAfrica - Limpopo
+1657,2021.79456,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1658,2021.77539,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+1659,2021.59183,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1660,2021.59183,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1661,2021.59135,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1662,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1663,2021.7014199999999,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+1664,2021.7807599999999,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1665,2021.85332,SouthAfrica - Gauteng,Botswana
+1666,2021.6301799999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1667,2021.6301799999999,SouthAfrica - Gauteng,France
+1668,2021.56991,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1669,2021.59825,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1670,2021.8658,SouthAfrica - KwaZulu-Natal,SouthAfrica - EasternCape
+1671,2021.69046,SouthAfrica - KwaZulu-Natal,SouthAfrica - WesternCape
+1672,2021.6301799999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1673,2021.6630599999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1674,2021.5936199999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1675,2021.62041,SouthAfrica - Gauteng,USA
+1676,2021.60553,SouthAfrica - Gauteng,Bulgaria
+1677,2021.58635,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1678,2021.66032,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1679,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1680,2021.60279,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1681,2021.58361,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1682,2021.56443,SouthAfrica - Gauteng,SouthAfrica - nan
+1683,2021.58853,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1684,2021.86031,SouthAfrica - FreeState,SouthAfrica - Gauteng
+1685,2021.54799,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1686,2021.58909,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1687,2021.60552,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1688,2021.62196,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1689,2021.6062299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1690,2021.72333,SouthAfrica - KwaZulu-Natal,Poland
+1691,2021.79456,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1692,2021.87128,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1693,2021.75895,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1694,2021.56293,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1695,2021.8383999999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1696,2021.79456,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1697,2021.64389,SouthAfrica - Gauteng,Lesotho
+1698,2021.61011,SouthAfrica - Gauteng,France
+1699,2021.67951,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1700,2021.64389,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1701,2021.74252,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1702,2021.59183,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1703,2021.6658,SouthAfrica - EasternCape,Eswatini
+1704,2021.75896,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1705,2021.91238,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+1706,2021.76718,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1707,2021.85759,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1708,2021.7726599999999,SouthAfrica - Gauteng,USA
+1709,2021.85485,USA,Israel
+1710,2021.60827,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1711,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1712,2021.55348,SouthAfrica - Gauteng,Mozambique
+1713,2021.5943399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1714,2021.81376,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1715,2021.52699,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1716,2021.58911,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1717,2021.58911,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1718,2021.7809,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+1719,2021.7589699999999,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+1720,2021.68225,SouthAfrica - EasternCape,SouthAfrica - NorthWest
+1721,2021.66034,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1722,2021.9671799999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1723,2021.65211,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1724,2021.66033,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1725,2021.66307,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1726,2021.66307,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1727,2021.66307,SouthAfrica - Gauteng,Eswatini
+1728,2021.7397799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1729,2021.6493699999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1730,2021.63524,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1731,2021.66307,SouthAfrica - Limpopo,SouthAfrica - Mpumalanga
+1732,2021.62471,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1733,2021.748,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1734,2021.70143,SouthAfrica - Gauteng,UnitedKingdom
+1735,2021.7260899999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1736,2021.66581,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1737,2021.73009,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1738,2021.7617,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1739,2021.64115,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1740,2021.66307,SouthAfrica - Gauteng,Mozambique
+1741,2021.52664,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1742,2021.71787,SouthAfrica - Limpopo,SouthAfrica - NorthWest
+1743,2021.49605,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1744,2021.59329,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1745,2021.8630799999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1746,2021.65211,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1747,2021.73704,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1748,2021.6357699999999,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1749,2021.7205999999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1750,2021.85759,SouthAfrica - Mpumalanga,SouthAfrica - FreeState
+1751,2021.83841,SouthAfrica - NorthWest,SouthAfrica - FreeState
+1752,2021.5891,SouthAfrica - Gauteng,Mozambique
+1753,2021.5644399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1754,2021.78636,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+1755,2021.69047,SouthAfrica - KwaZulu-Natal,SouthAfrica - FreeState
+1756,2021.62653,SouthAfrica - Gauteng,UnitedKingdom
+1757,2021.53036,SouthAfrica - Gauteng,Sweden
+1758,2021.59184,Sweden,Israel
+1759,2021.62198,Sweden,Norway
+1760,2021.66754,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1761,2021.61924,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1762,2021.67129,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1763,2021.55348,SouthAfrica - Gauteng,Mauritius
+1764,2021.58087,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1765,2021.59457,SouthAfrica - Gauteng,Singapore
+1766,2021.63841,SouthAfrica - Gauteng,USA
+1767,2021.84115,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1768,2021.73704,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1769,2021.64663,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1770,2021.64663,SouthAfrica - Limpopo,SouthAfrica - WesternCape
+1771,2021.48128,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1772,2021.50837,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1773,2021.66204,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1774,2021.9863599999999,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1775,2021.5589,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1776,2021.54113,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1777,2021.5754,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1778,2021.73738,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1779,2021.73157,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1780,2021.57815,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1781,2021.74682,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1782,2021.79459,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1783,2021.60555,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1784,2021.57541,SouthAfrica - NorthWest,SouthAfrica - WesternCape
+1785,2021.6928,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1786,2021.5644399999999,SouthAfrica - Gauteng,France
+1787,2021.6877299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1788,2021.77775,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1789,2021.56719,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1790,2021.76445,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1791,2021.66582,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1792,2021.60554,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1793,2021.8493799999999,SouthAfrica - KwaZulu-Natal,Denmark
+1794,2021.85212,Denmark,Sweden
+1795,2021.7589699999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1796,2021.64938,SouthAfrica - Gauteng,Benin
+1797,2021.7397899999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1798,2021.5507499999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1799,2021.7397899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1800,2021.59117,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1801,2021.64725,SouthAfrica - Limpopo,SouthAfrica - WesternCape
+1802,2021.72061,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1803,2021.64848,SouthAfrica - Gauteng,USA
+1804,2022.0247299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1805,2021.73706,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1806,2022.04938,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1807,2021.83702,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1808,2022.33432,SouthAfrica - KwaZulu-Natal,SouthAfrica - EPI_ISL_18876176
+1809,2022.3398,SouthAfrica - KwaZulu-Natal,SouthAfrica - EPI_ISL_18876174
+1810,2022.41103,SouthAfrica - KwaZulu-Natal,SouthAfrica - EPI_ISL_18876167
+1811,2021.64389,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1812,2021.4114399999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1813,2021.6301899999999,SouthAfrica - Limpopo,BosniaandHerzegovina
+1814,2021.60827,SouthAfrica - Limpopo,SouthAfrica - NorthWest
+1815,2021.69176,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1816,2021.66307,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1817,2021.65191,SouthAfrica - Limpopo,SouthAfrica - FreeState
+1818,2021.64936,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+1819,2021.73155,SouthAfrica - Limpopo,UnitedKingdom
+1820,2021.73748,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+1821,2021.58909,SouthAfrica - Gauteng,Mozambique
+1822,2021.60828,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1823,2021.685,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1824,2021.53431,SouthAfrica - Gauteng,Eswatini
+1825,2021.6231599999999,Eswatini,SouthAfrica - NorthernCape
+1826,2021.66856,SouthAfrica - NorthernCape,SouthAfrica - FreeState
+1827,2021.7009699999999,Eswatini,SouthAfrica - Gauteng
+1828,2021.7205999999999,SouthAfrica - Gauteng,Germany
+1829,2021.80279,Germany,SouthAfrica - KwaZulu-Natal
+1830,2021.6302,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1831,2021.64938,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1832,2021.68499,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1833,2021.66034,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1834,2021.7479799999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1835,2021.63508,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1836,2021.72883,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1837,2021.68774,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1838,2021.82746,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1839,2021.6356799999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1840,2021.56171,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1841,2021.6439,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1842,2021.44434,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1843,2021.5963,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1844,2021.62473,SouthAfrica - WesternCape,USA
+1845,2021.6219899999999,SouthAfrica - WesternCape,SouthAfrica - Mpumalanga
+1846,2021.66856,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+1847,2021.55624,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1848,2021.63569,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+1849,2021.71788,SouthAfrica - WesternCape,USA
+1850,2021.61103,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1851,2021.7260999999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1852,2021.6411699999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1853,2021.69048,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1854,2021.57152,SouthAfrica - Gauteng,SouthAfrica - nan
+1855,2021.62747,SouthAfrica - nan,Norway
+1856,2021.65213,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1857,2022.00829,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1858,2021.75898,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1859,2021.5370599999999,SouthAfrica - Gauteng,China
+1860,2021.5535,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1861,2021.5946,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1862,2021.53861,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1863,2021.61377,SouthAfrica - Mpumalanga,Malawi
+1864,2021.86582,SouthAfrica - Gauteng,Eswatini
+1865,2021.5292,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1866,2021.57368,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1867,2021.54254,SouthAfrica - Gauteng,SouthAfrica - nan
+1868,2021.6603499999999,SouthAfrica - Gauteng,Germany
+1869,2021.64391,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1870,2021.74254,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1871,2021.5891199999999,SouthAfrica - Gauteng,Eswatini
+1872,2021.61377,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1873,2021.67131,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1874,2021.72884,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1875,2021.60856,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1876,2021.64939,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1877,2021.62034,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1878,2021.6219899999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1879,2021.74254,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+1880,2021.91514,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1881,2021.72337,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1882,2021.70145,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1883,2021.6768,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1884,2021.64118,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1885,2021.78091,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1886,2021.71789,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1887,2021.49508,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1888,2021.57782,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1889,2021.74529,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1890,2021.72338,SouthAfrica - Limpopo,SouthAfrica - Mpumalanga
+1891,2021.60024,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1892,2021.68776,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1893,2021.76173,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1894,2021.66309,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1895,2021.6795299999999,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1896,2021.73707,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1897,2021.5422899999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1898,2021.73707,SouthAfrica - NorthernCape,SouthAfrica - KwaZulu-Natal
+1899,2021.61651,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1900,2021.68501,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1901,2021.69049,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1902,2021.6795299999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1903,2021.59734,SouthAfrica - Gauteng,Eswatini
+1904,2021.64849,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1905,2021.6494,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1906,2021.70967,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+1907,2021.54486,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1908,2021.58364,SouthAfrica - Mpumalanga,SouthAfrica - EasternCape
+1909,2021.72336,SouthAfrica - Mpumalanga,SouthAfrica - Limpopo
+1910,2021.75624,SouthAfrica - Mpumalanga,SouthAfrica - FreeState
+1911,2021.5859,SouthAfrica - Mpumalanga,SouthAfrica - EasternCape
+1912,2021.76414,SouthAfrica - EasternCape,Eswatini
+1913,2021.59734,SouthAfrica - EasternCape,SouthAfrica - Gauteng
+1914,2021.60008,SouthAfrica - Gauteng,Eswatini
+1915,2021.622,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1916,2021.64118,SouthAfrica - Mpumalanga,SouthAfrica - Limpopo
+1917,2021.66199,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1918,2021.77816,SouthAfrica - KwaZulu-Natal,Taiwan
+1919,2021.58239,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1920,2021.72612,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1921,2021.68382,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1922,2021.59735,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1923,2021.72063,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1924,2021.54441,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1925,2021.54537,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1926,2021.63297,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1927,2021.58913,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1928,2021.77269,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1929,2021.7042,SouthAfrica - Gauteng,Eswatini
+1930,2021.85215,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1931,2021.86311,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1932,2021.5562499999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1933,2021.60008,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1934,2021.63296,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1935,2021.5829999999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1936,2021.66309,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+1937,2021.69552,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1938,2021.55698,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1939,2021.64939,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1940,2021.5891199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1941,2021.77816,SouthAfrica - Gauteng,USA
+1942,2021.70967,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1943,2021.66858,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1944,2021.60282,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1945,2021.75899,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1946,2021.73707,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1947,2021.56447,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1948,2021.70967,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1949,2021.72063,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1950,2021.5946,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1951,2021.70967,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1952,2021.61104,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1953,2021.73707,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1954,2021.75625,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1955,2021.72064,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1956,2021.57926,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1957,2021.58913,SouthAfrica - Limpopo,USA
+1958,2021.73707,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+1959,2021.56447,SouthAfrica - Gauteng,Netherlands
+1960,2021.622,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1961,2021.6082999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1962,2021.59077,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1963,2021.5535,SouthAfrica - Gauteng,UnitedKingdom
+1964,2021.64391,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1965,2021.61926,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1966,2021.74802,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1967,2021.75898,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1968,2021.65213,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1969,2021.68776,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1970,2021.6603599999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1971,2021.73445,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1972,2021.54803,SouthAfrica - Gauteng,Netherlands
+1973,2021.58913,SouthAfrica - Gauteng,Netherlands
+1974,2021.63022,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1975,2021.56103,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1976,2021.61378,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1977,2021.61926,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+1978,2021.58091,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1979,2021.65182,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1980,2021.61653,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1981,2021.6795399999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1982,2021.73433,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+1983,2021.80009,SouthAfrica - Gauteng,Lesotho
+1984,2021.6631,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1985,2021.6795399999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+1986,2021.61927,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1987,2021.55199,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+1988,2021.77543,SouthAfrica - Limpopo,SouthAfrica - WesternCape
+1989,2021.59187,SouthAfrica - Limpopo,Eswatini
+1990,2021.75899,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+1991,2021.5613,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+1992,2021.6987199999999,SouthAfrica - NorthWest,Namibia
+1993,2021.64118,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+1994,2021.79735,SouthAfrica - NorthWest,SouthAfrica - NorthernCape
+1995,2021.66309,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1996,2021.62062,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+1997,2021.74529,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+1998,2021.8165199999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+1999,2021.6795299999999,SouthAfrica - Gauteng,Sweden
+2000,2021.75898,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2001,2021.87679,SouthAfrica - Gauteng,Botswana
+2002,2021.60555,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2003,2021.60649,SouthAfrica - Gauteng,Eswatini
+2004,2021.80007,Eswatini,SouthAfrica - NorthWest
+2005,2021.86583,SouthAfrica - Gauteng,Eswatini
+2006,2021.76994,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2007,2021.5535,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2008,2021.5535,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2009,2021.70418,SouthAfrica - NorthWest,SouthAfrica - EasternCape
+2010,2021.56719,SouthAfrica - Gauteng,Germany
+2011,2021.53847,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2012,2021.64664,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2013,2021.72335,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2014,2021.5178,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2015,2021.82472,SouthAfrica - WesternCape,USA
+2016,2021.64479,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+2017,2021.8438899999999,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+2018,2021.87129,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+2019,2021.76444,SouthAfrica - WesternCape,USA
+2020,2021.55623,SouthAfrica - Gauteng,Netherlands
+2021,2021.55623,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2022,2021.79459,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2023,2021.55682,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2024,2021.64664,SouthAfrica - Limpopo,SouthAfrica - KwaZulu-Natal
+2025,2021.64201,SouthAfrica - Gauteng,Eswatini
+2026,2021.73705,SouthAfrica - Gauteng,Austria
+2027,2021.7223099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2028,2021.55897,SouthAfrica - Gauteng,France
+2029,2021.7124,France,SouthAfrica - WesternCape
+2030,2021.65991,France,SouthAfrica - Mpumalanga
+2031,2021.91514,SouthAfrica - Mpumalanga,SouthAfrica - WesternCape
+2032,2021.685,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2033,2021.91788,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2034,2021.53212,SouthAfrica - Gauteng,Germany
+2035,2021.60008,Germany,Israel
+2036,2021.59186,Germany,Canada
+2037,2021.55954,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2038,2021.64939,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2039,2021.70418,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2040,2021.76171,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2041,2021.59018,SouthAfrica - Gauteng,Georgia
+2042,2021.7946,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2043,2021.58364,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2044,2021.65894,SouthAfrica - Gauteng,France
+2045,2021.75898,France,Belgium
+2046,2021.79734,Belgium,Italy
+2047,2021.60555,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2048,2021.76993,SouthAfrica - Gauteng,Germany
+2049,2021.72062,SouthAfrica - Gauteng,Canada
+2050,2021.78911,Canada,France
+2051,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - nan
+2052,2021.61872,SouthAfrica - Gauteng,France
+2053,2021.66579,France,Belgium
+2054,2021.78089,Belgium,Netherlands
+2055,2021.7397899999999,France,SouthAfrica - NorthernCape
+2056,2021.68225,France,SouthAfrica - Gauteng
+2057,2021.6923199999999,France,Belgium
+2058,2021.70144,Belgium,France
+2059,2021.75624,Belgium,Italy
+2060,2021.56587,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2061,2021.76993,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+2062,2021.5836199999999,SouthAfrica - Gauteng,Mozambique
+2063,2021.62472,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2064,2021.57497,SouthAfrica - Gauteng,Mozambique
+2065,2021.64663,Mozambique,SouthAfrica - NorthWest
+2066,2021.6028,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2067,2021.59732,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2068,2021.7589699999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2069,2021.59475,SouthAfrica - Gauteng,Lesotho
+2070,2021.73705,Lesotho,Japan
+2071,2021.72883,Lesotho,Japan
+2072,2021.5665199999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2073,2021.66856,SouthAfrica - WesternCape,SouthAfrica - FreeState
+2074,2021.65212,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+2075,2021.59184,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+2076,2021.66308,SouthAfrica - WesternCape,SouthAfrica - NorthWest
+2077,2021.6713,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+2078,2021.62746,SouthAfrica - WesternCape,SouthAfrica - EasternCape
+2079,2021.56719,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2080,2021.65212,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2081,2022.2521199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2082,2021.61924,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2083,2021.62198,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2084,2021.63294,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2085,2021.68774,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2086,2021.6302,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2087,2021.68226,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2088,2021.7260999999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2089,2021.6093799999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2090,2021.70966,SouthAfrica - NorthWest,SouthAfrica - KwaZulu-Natal
+2091,2021.56779,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2092,2021.61103,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2093,2021.56963,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2094,2021.72336,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+2095,2021.5699299999999,SouthAfrica - Gauteng,Eswatini
+2096,2021.76171,Eswatini,SouthAfrica - WesternCape
+2097,2021.61377,SouthAfrica - Gauteng,USA
+2098,2021.70144,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2099,2021.71514,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2100,2021.62778,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2101,2021.49323,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2102,2021.62473,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2103,2021.62474,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2104,2021.63635,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2105,2021.72063,SouthAfrica - NorthernCape,SouthAfrica - Mpumalanga
+2106,2021.65213,SouthAfrica - Gauteng,Belgium
+2107,2021.6795299999999,SouthAfrica - Gauteng,Eswatini
+2108,2021.64122,SouthAfrica - Gauteng,USA
+2109,2021.6274799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2110,2021.7178999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2111,2021.63297,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2112,2021.6329799999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2113,2021.79461,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2114,2021.79461,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2115,2021.7370799999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2116,2021.64161,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2117,2021.83297,SouthAfrica - Mpumalanga,SouthAfrica - NorthWest
+2118,2021.63297,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2119,2021.73982,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2120,2021.76447,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2121,2021.74256,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2122,2021.77817,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2123,2021.6603599999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2124,2021.81653,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2125,2021.81105,SouthAfrica - Gauteng,Eswatini
+2126,2021.6631,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2127,2021.67955,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2128,2021.6905,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2129,2021.75899,SouthAfrica - Gauteng,USA
+2130,2021.64119,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2131,2021.75899,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2132,2021.83023,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2133,2021.8603699999999,SouthAfrica - KwaZulu-Natal,SouthAfrica - EasternCape
+2134,2021.66311,SouthAfrica - Gauteng,UnitedKingdom
+2135,2021.64393,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2136,2021.7562599999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2137,2021.7453,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2138,2021.6466699999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2139,2021.6404499999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2140,2021.76448,SouthAfrica - NorthernCape,SouthAfrica - EasternCape
+2141,2021.66311,SouthAfrica - NorthernCape,SouthAfrica - Gauteng
+2142,2021.78092,SouthAfrica - NorthernCape,SouthAfrica - KwaZulu-Natal
+2143,2021.6466699999999,SouthAfrica - Gauteng,Germany
+2144,2021.68229,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2145,2021.74256,SouthAfrica - FreeState,SouthAfrica - NorthWest
+2146,2021.72064,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2147,2021.7042,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2148,2021.7562599999999,SouthAfrica - Gauteng,Lesotho
+2149,2021.70694,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2150,2021.70146,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2151,2021.64941,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2152,2021.64941,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2153,2021.6658499999999,SouthAfrica - NorthernCape,Germany
+2154,2021.7178999999999,Germany,SouthAfrica - Gauteng
+2155,2021.86585,SouthAfrica - Gauteng,Eswatini
+2156,2021.76174,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2157,2021.79587,SouthAfrica - Gauteng,USA
+2158,2021.79461,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2159,2021.67591,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2160,2021.75898,SouthAfrica - FreeState,Lesotho
+2161,2021.7229399999999,SouthAfrica - FreeState,SouthAfrica - Gauteng
+2162,2021.74255,SouthAfrica - Gauteng,UnitedKingdom
+2163,2021.76172,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2164,2021.79734,SouthAfrica - FreeState,Lesotho
+2165,2021.66584,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2166,2021.77481,SouthAfrica - NorthernCape,SouthAfrica - NorthWest
+2167,2021.81105,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2168,2021.67406,SouthAfrica - Gauteng,Mozambique
+2169,2021.66933,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2170,2021.70258,SouthAfrica - Gauteng,USA
+2171,2021.68228,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2172,2021.68776,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2173,2021.7042,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2174,2021.68502,SouthAfrica - Gauteng,Germany
+2175,2021.56446,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2176,2021.54254,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2177,2021.5507599999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2178,2021.55349,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2179,2021.55623,SouthAfrica - Gauteng,Netherlands
+2180,2021.55623,SouthAfrica - Gauteng,Netherlands
+2181,2021.55623,SouthAfrica - Gauteng,Netherlands
+2182,2021.55623,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2183,2021.58089,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2184,2021.56171,SouthAfrica - Gauteng,Netherlands
+2185,2021.56445,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2186,2021.5699299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2187,2021.5699299999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2188,2021.57542,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2189,2021.57542,SouthAfrica - Gauteng,USA
+2190,2021.57542,SouthAfrica - Gauteng,Eswatini
+2191,2021.57816,SouthAfrica - Gauteng,Eswatini
+2192,2021.58911,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2193,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2194,2021.5836199999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2195,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2196,2021.58637,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2197,2021.58911,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2198,2021.5891,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2199,2021.59184,SouthAfrica - Gauteng,SouthAfrica - nan
+2200,2021.6028,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2201,2021.68394,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+2202,2021.80828,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2203,2021.7069099999999,SouthAfrica - Gauteng,Eswatini
+2204,2021.7069099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2205,2021.74593,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2206,2021.77814,SouthAfrica - EasternCape,Belgium
+2207,2021.80006,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2208,2021.95075,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2209,2021.72335,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2210,2021.76445,SouthAfrica - Limpopo,SouthAfrica - Mpumalanga
+2211,2021.79185,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+2212,2021.71787,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2213,2021.72061,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2214,2021.72061,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2215,2021.83842,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2216,2021.83568,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2217,2021.7397899999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2218,2021.7397899999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2219,2021.74801,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2220,2021.60006,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2221,2021.59184,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2222,2021.59184,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2223,2021.59184,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2224,2021.59459,SouthAfrica - Gauteng,SouthAfrica - nan
+2225,2021.59732,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2226,2021.60554,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2227,2021.60554,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+2228,2021.60007,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2229,2021.6028,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2230,2021.6028099999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2231,2021.61923,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2232,2021.60827,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2233,2021.60827,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2234,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2235,2021.61375,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2236,2021.61375,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2237,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2238,2021.62197,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2239,2021.62197,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2240,2021.61944,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2241,2021.62745,SouthAfrica - Limpopo,Argentina
+2242,2021.62429,SouthAfrica - Limpopo,SouthAfrica - Gauteng
+2243,2021.6301899999999,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2244,2021.6521,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2245,2021.6276,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2246,2021.6325199999999,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+2247,2021.6493699999999,SouthAfrica - Limpopo,Germany
+2248,2021.64389,SouthAfrica - Limpopo,SouthAfrica - Mpumalanga
+2249,2021.63911,SouthAfrica - Limpopo,Germany
+2250,2021.64389,Germany,Eswatini
+2251,2021.64556,Germany,SouthAfrica - Gauteng
+2252,2021.64938,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2253,2021.65212,SouthAfrica - Gauteng,Germany
+2254,2021.65212,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2255,2021.65212,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2256,2021.66034,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2257,2021.66034,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2258,2021.66308,SouthAfrica - Gauteng,Germany
+2259,2021.66698,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2260,2021.66856,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+2261,2021.67952,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthernCape
+2262,2021.68335,SouthAfrica - KwaZulu-Natal,Germany
+2263,2021.685,Germany,UnitedKingdom
+2264,2021.69048,Germany,SouthAfrica - NorthWest
+2265,2021.69048,Germany,SouthAfrica - Mpumalanga
+2266,2021.69979,Germany,SouthAfrica - Gauteng
+2267,2021.70144,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2268,2021.70144,SouthAfrica - Gauteng,Netherlands
+2269,2021.7069199999999,SouthAfrica - Gauteng,Eswatini
+2270,2021.72062,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2271,2021.72336,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2272,2021.7452799999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2273,2021.75898,SouthAfrica - EasternCape,SouthAfrica - NorthernCape
+2274,2021.76172,SouthAfrica - NorthernCape,SouthAfrica - Limpopo
+2275,2021.57268,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2276,2021.54862,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2277,2021.6987,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+2278,2021.5946,SouthAfrica - KwaZulu-Natal,Eswatini
+2279,2021.65991,Eswatini,Germany
+2280,2021.93707,Germany,France
+2281,2021.70692,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2282,2021.72336,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2283,2021.67131,SouthAfrica - Gauteng,Mozambique
+2284,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2285,2021.63295,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2286,2021.64391,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2287,2021.80829,SouthAfrica - NorthWest,SouthAfrica - EasternCape
+2288,2021.63021,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2289,2021.68226,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2290,2021.7644599999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2291,2021.7644599999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2292,2021.80007,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2293,2021.69048,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2294,2021.64933,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2295,2021.81378,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2296,2021.57727,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2297,2021.9069299999999,SouthAfrica - Mpumalanga,SouthAfrica - Gauteng
+2298,2021.70145,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2299,2021.61378,SouthAfrica - Gauteng,Mozambique
+2300,2021.6274799999999,SouthAfrica - Gauteng,Zambia
+2301,2021.6494,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2302,2021.6932299999999,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2303,2021.57816,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2304,2021.60556,SouthAfrica - Limpopo,SouthAfrica - EasternCape
+2305,2021.73981,SouthAfrica - EasternCape,SouthAfrica - WesternCape
+2306,2021.80008,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2307,2021.64391,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2308,2021.68774,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2309,2021.5391399999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2310,2021.62747,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2311,2021.6411699999999,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2312,2021.6219899999999,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2313,2021.61377,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+2314,2021.64391,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2315,2021.62747,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2316,2021.60828,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2317,2021.70417,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2318,2021.82198,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2319,2021.73157,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2320,2021.66033,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2321,2021.74801,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2322,2021.5809,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2323,2021.66583,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2324,2021.69049,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2325,2021.702,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2326,2021.72884,SouthAfrica - KwaZulu-Natal,Ireland
+2327,2021.82473,SouthAfrica - Gauteng,Angola
+2328,2021.60555,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2329,2021.69049,SouthAfrica - Gauteng,Eswatini
+2330,2021.75898,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2331,2021.73706,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2332,2021.63021,SouthAfrica - Gauteng,Mozambique
+2333,2021.60555,SouthAfrica - Gauteng,Mozambique
+2334,2021.64118,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2335,2021.58233,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2336,2021.77541,SouthAfrica - FreeState,SouthAfrica - NorthWest
+2337,2021.73158,SouthAfrica - FreeState,Japan
+2338,2021.76719,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+2339,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2340,2021.5836199999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2341,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2342,2021.66582,SouthAfrica - Limpopo,SouthAfrica - NorthernCape
+2343,2021.68226,SouthAfrica - Limpopo,SouthAfrica - FreeState
+2344,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2345,2021.93705,SouthAfrica - Limpopo,Lesotho
+2346,2021.5836299999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2347,2021.66308,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2348,2021.74253,SouthAfrica - Mpumalanga,SouthAfrica - Limpopo
+2349,2021.66034,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2350,2021.75623,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2351,2021.77541,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2352,2021.58637,SouthAfrica - Gauteng,SouthAfrica - nan
+2353,2021.72884,SouthAfrica - nan,SouthAfrica - NorthWest
+2354,2021.59044,SouthAfrica - Gauteng,Eswatini
+2355,2021.58911,SouthAfrica - Gauteng,Sweden
+2356,2021.59763,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2357,2022.5836199999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2358,2021.7260899999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2359,2021.69048,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2360,2021.66308,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2361,2021.83568,SouthAfrica - Mpumalanga,SouthAfrica - NorthernCape
+2362,2021.58911,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2363,2021.8165099999999,SouthAfrica - Gauteng,Lesotho
+2364,2021.58911,SouthAfrica - Gauteng,France
+2365,2021.61925,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2366,2021.6028099999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2367,2021.7398,SouthAfrica - EasternCape,SouthAfrica - NorthWest
+2368,2021.65212,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2369,2021.73431,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2370,2021.71787,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2371,2021.78088,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2372,2021.85211,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2373,2021.72608,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2374,2021.6653999999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2375,2021.6713,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2376,2021.7781499999999,SouthAfrica - WesternCape,SouthAfrica - KwaZulu-Natal
+2377,2021.6446,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2378,2021.73706,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2379,2021.66679,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2380,2021.6877299999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2381,2021.6877299999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2382,2021.79459,SouthAfrica - NorthWest,SouthAfrica - Gauteng
+2383,2021.61103,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2384,2021.66731,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2385,2021.70143,SouthAfrica - NorthWest,SouthAfrica - WesternCape
+2386,2021.59185,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2387,2021.64665,SouthAfrica - NorthWest,SouthAfrica - Limpopo
+2388,2021.6037,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2389,2021.59467,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2390,2021.62747,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2391,2021.76171,SouthAfrica - NorthWest,SouthAfrica - FreeState
+2392,2021.72061,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2393,2021.59732,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2394,2021.7589699999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2395,2021.78603,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2396,2021.59732,SouthAfrica - Gauteng,Eswatini
+2397,2021.71239,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2398,2021.748,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2399,2021.62789,SouthAfrica - Gauteng,Lesotho
+2400,2021.7205999999999,SouthAfrica - Gauteng,USA
+2401,2021.85673,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2402,2021.88224,SouthAfrica - NorthernCape,SouthAfrica - FreeState
+2403,2021.5973099999999,SouthAfrica - Gauteng,UnitedKingdom
+2404,2021.60553,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2405,2021.68772,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2406,2021.76169,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2407,2021.68498,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2408,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2409,2021.60827,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2410,2021.61375,SouthAfrica - WesternCape,SouthAfrica - Gauteng
+2411,2021.61375,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2412,2021.6301899999999,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2413,2021.7397799999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2414,2021.75896,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2415,2021.6028,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2416,2021.64389,SouthAfrica - KwaZulu-Natal,SouthAfrica - Gauteng
+2417,2021.6028,SouthAfrica - Gauteng,UnitedKingdom
+2418,2021.78088,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2419,2021.75348,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2420,2021.6028,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2421,2021.85759,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2422,2021.6028,SouthAfrica - Gauteng,Eswatini
+2423,2021.7397899999999,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2424,2021.6028,SouthAfrica - Gauteng,Mozambique
+2425,2021.6439,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2426,2021.74516,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2427,2021.87403,SouthAfrica - KwaZulu-Natal,SouthAfrica - EasternCape
+2428,2021.64389,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2429,2021.64389,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2430,2021.87129,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2431,2021.67951,SouthAfrica - Gauteng,SouthAfrica - FreeState
+2432,2021.64664,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2433,2021.75623,SouthAfrica - Limpopo,SouthAfrica - FreeState
+2434,2021.74252,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2435,2021.73704,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2436,2021.73704,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2437,2021.74252,SouthAfrica - KwaZulu-Natal,SouthAfrica - NorthWest
+2438,2021.60553,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2439,2021.61375,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2440,2021.60827,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2441,2021.60827,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2442,2021.60826,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2443,2021.7562,SouthAfrica - KwaZulu-Natal,SouthAfrica - Mpumalanga
+2444,2021.60826,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2445,2021.73621,SouthAfrica - NorthernCape,SouthAfrica - FreeState
+2446,2021.86032,SouthAfrica - FreeState,SouthAfrica - NorthernCape
+2447,2021.72059,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2448,2021.86305,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2449,2021.62108,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2450,2021.86306,SouthAfrica - NorthWest,SouthAfrica - KwaZulu-Natal
+2451,2021.74525,SouthAfrica - NorthWest,SouthAfrica - Mpumalanga
+2452,2021.6109999999999,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2453,2021.6109999999999,SouthAfrica - Gauteng,Eswatini
+2454,2021.80004,Eswatini,Lesotho
+2455,2021.62744,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2456,2021.6438699999999,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2457,2021.67127,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2458,2021.61374,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2459,2021.61374,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2460,2021.68771,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2461,2021.71931,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2462,2021.87401,SouthAfrica - Gauteng,SouthAfrica - NorthWest
+2463,2021.77812,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2464,2021.61648,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2465,2021.61648,SouthAfrica - Gauteng,SouthAfrica - Limpopo
+2466,2021.64662,SouthAfrica - Gauteng,Lesotho
+2467,2021.67402,SouthAfrica - Gauteng,SouthAfrica - WesternCape
+2468,2021.6247,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2469,2021.62196,SouthAfrica - Gauteng,SouthAfrica - Mpumalanga
+2470,2021.6164899999999,SouthAfrica - Gauteng,SouthAfrica - KwaZulu-Natal
+2471,2021.63374,SouthAfrica - Gauteng,Eswatini
+2472,2021.76717,SouthAfrica - Gauteng,SouthAfrica - NorthernCape
+2473,2021.83127,SouthAfrica - Gauteng,SouthAfrica - EasternCape
+2474,2021.83292,SouthAfrica - EasternCape,Eswatini
